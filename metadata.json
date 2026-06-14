@@ -1,0 +1,6 @@
+{
+  "name": "Velvera - Hair Salon Website",
+  "description": "Velvera is an upscale, responsive landing page and live booking app designed for elite hair salons and beauty studios to showcase custom cuts, styling coloring therapies, and master stylist profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
